@@ -1,5 +1,8 @@
 # Hi, I'm Yeab Takele 👋
-Full-Stack Developer | DevOps Enthusiast 
+Full-Stack Developer | DevOps Enthusiast
+
+I build reliable systems and clean code. My focus is on automating deployments, scaling applications, and bridging development with operations.
+I’m passionate about crafting software that not only works — but grows, scales, and survives under pressure. 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yeabtakele.netlify.app/) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/yeabtk)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yeabbereket434@gmail.com)[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yeabtakele_10394)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeabtakele)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yeabtakele)  
 
@@ -28,7 +31,7 @@ Full-Stack Developer | DevOps Enthusiast
 - Tech: Next.js, React, Vercel  
 - GitHub: [Link](https://github.com/yeabtakele/portfolio)
 
-### [Airbnb Clone](https://github.com/yeabtakele/airbnb-clone)
+### [Airbnb Clone](https://github.com/Yeabtakele/AirBnB_clone_v4)
 - Full-stack web app with user authentication, bookings, and search functionality  
 - Tech: Python, Flask, SQLAlchemy, Bootstrap
 
@@ -39,4 +42,4 @@ Full-Stack Developer | DevOps Enthusiast
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabtakele&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   
---- Yeabtakele
+--- Yeabtakele born to win
