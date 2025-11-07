@@ -26,7 +26,7 @@ Full-Stack Developer | DevOps Enthusiast
 ### [Eyob Portfolio](https://eyob-portfolio-4.vercel.app/)
 - Personal portfolio website for showcasing projects and skills  
 - Tech: Next.js, React, Vercel  
-- GitHub: [Link](https: (well_seen )
+- GitHub: [Link](https://github.com/yeabtakele/portfolio)
 
 ### [Airbnb Clone](https://github.com/yeabtakele/airbnb-clone)
 - Full-stack web app with user authentication, bookings, and search functionality  
