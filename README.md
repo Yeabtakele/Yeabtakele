@@ -40,15 +40,13 @@ I’m passionate about crafting software that not only works — but grows, scal
 ## 📊 GitHub Stats
 
 ### My GitHub Summary
-[![Yeab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeabtakele&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/Yeabtakele)
+[![Yeab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeabtakele&show_icons=true&theme=default)](https://github.com/Yeabtakele)
 
 ### GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yeabtakele&theme=default)](https://github.com/Yeabtakele)
 
 ### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeabtakele&layout=compact&theme=default&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Yeabtakele)
-
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeabtakele&layout=compact&theme=default)](https://github.com/Yeabtakele)
 
   
 --- Yeabtakele born to win
