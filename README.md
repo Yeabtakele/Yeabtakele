@@ -37,9 +37,21 @@ I’m passionate about crafting software that not only works — but grows, scal
 
   
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yeabtakele&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yeabtakele&theme=default_repocard)  <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabtakele&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p float="left">
+  <a href="https://github.com/Yeabtakele">
+    <img src="https://github-readme-stats.vercel.app/api?username=yeabtakele&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  </a>
+  <a href="https://github.com/Yeabtakele">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeabtakele&theme=default_repocard" width="48%" />
+  </a>
+</p>
+
+<p float="left">
+  <a href="https://github.com/Yeabtakele">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeabtakele&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  </a>
+</p>
+
 
   
 --- Yeabtakele born to win
