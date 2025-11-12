@@ -39,17 +39,16 @@ I’m passionate about crafting software that not only works — but grows, scal
 ## 📊 GitHub Stats
 <p float="left">
   <a href="https://github.com/Yeabtakele">
-    <img src="https://github-readme-stats.vercel.app/api?username=yeabtakele&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yeabtakele&show_icons=true&theme=default&include_all_commits=true&count_private=true" width="32%" />
   </a>
   <a href="https://github.com/Yeabtakele">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeabtakele&theme=default_repocard" width="48%" />
+    <img src="https://streak-stats.demolab.com?user=Yeabtakele&theme=default" width="32%" />
+  </a>
+  <a href="https://github.com/Yeabtakele">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeabtakele&layout=compact&theme=default&hide_border=false&include_all_commits=true&count_private=true" width="32%" />
   </a>
 </p>
 
-<p float="left">
-  <a href="https://github.com/Yeabtakele">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeabtakele&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-  </a>
 </p>
 
 
