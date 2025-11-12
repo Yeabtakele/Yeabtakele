@@ -29,7 +29,7 @@ I’m passionate about crafting software that not only works — but grows, scal
 ### [Eyob Portfolio](https://eyob-portfolio-4.vercel.app/)
 - Personal portfolio website for showcasing projects and skills  
 - Tech: Next.js, React, Vercel
-- website [Link](Eyob Portfolio](https://eyob-portfolio-4.vercel.app/)
+- website [Link](https://eyob-portfolio-4.vercel.app/)
 - GitHub: [Link](https://github.com/yeabtakele/portfolio)
 
 ### [Airbnb Clone](https://github.com/Yeabtakele/AirBnB_clone_v4)
