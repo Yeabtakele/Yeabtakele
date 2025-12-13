@@ -1,5 +1,7 @@
 # Hi, I'm Yeab Takele 👋
 Full-Stack Developer | DevOps Enthusiast
+> 🚀 **Actively seeking remote full stack internship opportunities for 2026!** 🚀
+
 
 I build reliable systems and clean code. My focus is on automating deployments, scaling applications, and bridging development with operations.
 I’m passionate about crafting software that not only works — but grows, scales, and survives under pressure. 
